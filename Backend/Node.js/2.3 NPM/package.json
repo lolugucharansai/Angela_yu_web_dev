@@ -1,0 +1,19 @@
+{
+  "name": "initial-npm",
+  "version": "1.0.0",
+  "description": "this is the first npm hands-on by angelaYU",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "Charan",
+  "license": "MIT",
+  "dependencies": {
+    "marvel-dc-name-generator": "^1.1.0",
+    "silly-animal": "^1.1.1"
+  }
+}
