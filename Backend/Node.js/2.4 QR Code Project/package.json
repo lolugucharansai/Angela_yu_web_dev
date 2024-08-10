@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security",
-    "inquirer": "^9.2.23",
+    "inquirer": "^9.3.6",
     "qr-image": "^3.2.0",
     "qrcode": "^1.5.3"
   },
